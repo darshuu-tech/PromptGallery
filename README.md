@@ -24,4 +24,4 @@ Explaining it for a poster or presentation
 Writing a project description
 Designing UI layout ideas
 Creating sample prompts
-Making it as a frontend / MERN project
+Making it as a frontend / MERN project...
